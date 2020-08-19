@@ -7,6 +7,8 @@ author: "Kshired"
 mathjax: true
 header-style: text
 tags:
+  - Algorithms
+  - DP
 ---
 
 ### 동적 계획법 ( Dynamic Programming )

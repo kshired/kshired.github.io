@@ -5,6 +5,11 @@ date: 2020-08-19
 author: "Kshired"
 header-style: text
 tags:
+  - devlog
+  - Prisma
+  - TypeScript
+  - PostgreSQL
+  - Docker
 ---
 
 - 이 시리즈는 [**Building a Modern Backend with TypeScript, PostgreSQL and Prisma**](https://www.prisma.io/blog/modern-backend-1-tsjs1ps7kip1) 을 순차적으로 번역 하는 시리즈입니다.

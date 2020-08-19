@@ -2,6 +2,7 @@
 layout: post
 title: "Building a Modern Backend with TypeScript, PostgreSQL and Prisma"
 date: 2020-08-19
+subtitle: "Data Modeling, CRUD, and Aggregates"
 author: "Kshired"
 header-style: text
 tags:
@@ -16,9 +17,7 @@ tags:
 
 - 오역,의역,오타가 존재 할 수 있습니다.
 
-## Building a Modern Backend with TypeScript, PostgreSQL and Prisma
-
-이 포스트는 라이브로 스트리밍 된 `TypeScript, PostgreSQL, Prisma를 이용하여 Backend 구축하기` 를 요약 한 것입니다. 우리는 이 포스트를 통해 데이터 모델 디자인, CRUD 동작 그리고 Query Aggregate가 어떻게 Prisma를 통해 이루어지는 지를 알아 볼 것입니다.
+- 이 포스트는 라이브로 스트리밍 된 `TypeScript, PostgreSQL, Prisma를 이용하여 Backend 구축하기` 를 요약 한 것입니다. 우리는 이 포스트를 통해 데이터 모델 디자인, CRUD 동작 그리고 Query Aggregate가 어떻게 Prisma를 통해 이루어지는 지를 알아 볼 것입니다.
 
 ![part1](/img/part1.png)
 

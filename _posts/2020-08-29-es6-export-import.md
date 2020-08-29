@@ -10,7 +10,7 @@ tags:
   - ES6
 ---
 
-![es6](/img/es6.jpg)
+![es6](/img/es.jpg)
 
 `ES6 === ES2015` 에는 `import`와 `export` 가 CommonJS에서 사용하던 `module.exports` 를 대체한다. 이 문서에서는 `import`와 `export` 의 사용법과 용례를 알아보려한다.
 

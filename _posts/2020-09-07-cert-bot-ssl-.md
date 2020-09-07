@@ -1,11 +1,14 @@
 ---
 layout: post
 title: "Certbot으로 SSL 설정하기"
-subtitle: "This is a subtitle"
+subtitle: "간단하게 SSL 설정하기"
 date: 2020-09-07
 author: "Kshired"
 header-style: text
 tags:
+  - devlog
+  - setting
+  - ssl
 ---
 
 Ubuntu에서 Certbot을 이용하여 SSL을 설정하는 법을 알아봅시다.

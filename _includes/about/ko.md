@@ -6,6 +6,7 @@
 ##### Experiences
 
 - Serve in the 2ID SBDE KATUSA @[CAMP_HUMPHREYS][4] [2019.11 ~ 2021.06]
+- [OSAM Online Hackerthon][5] **Award by Minister of Defense** · [2020.11]
 - Sogang University SGCC Python Mento · [2018.03 ~ 2019.11]
 - [Purdue University][3] Automated Drone (UAV) Research Intern · [2019.06 ~ 2019.09]
 - 4th Year of [Prography][2]· [2019.02 ~ 2019.06]
@@ -15,3 +16,4 @@
 [2]: http://prography.org/
 [3]: https://www.purdue.edu
 [4]: https://home.army.mil/humphreys/index.php
+[5]: https://osam.kr/board/read.jsp?id=4266&code=notice
